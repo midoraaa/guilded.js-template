@@ -35,3 +35,5 @@ client.on("ready", () => {
   console.log(`Bot is successfully logged in as ${client.user.name}`);
 });
 ```
+
+### pls dont remove credit when u use my template >:(
